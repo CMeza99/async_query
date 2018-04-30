@@ -1,0 +1,14 @@
+---
+- missing-000:
+    "Application": "CoreApp"
+    "Version": "1.0.0-beta"
+    "Uptime": 4637719417
+    "Error_Count": 10
+    "Success_Count": 90
+- bad-200:
+    "Application": "SillyApp"
+    "Version": "2.0.0"
+    "Uptime": 4637719417
+    "Request_Count": 100
+    "Error_Count": 10
+    "Success_Count": 100

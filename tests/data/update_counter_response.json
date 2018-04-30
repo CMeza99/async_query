@@ -1,0 +1,44 @@
+{
+    "CoreApp": {
+        "1.0.0-beta": {
+            "Uptime": 9275438834,
+            "Request_Count": 200,
+            "Error_Count": 20,
+            "Success_Count": 180
+        },
+        "1.0.0": {
+            "Uptime": 9275438834,
+            "Request_Count": 200,
+            "Error_Count": 20,
+            "Success_Count": 180
+        }
+    },
+    "SillyApp": {
+        "2.0.0": {
+            "Uptime": 9275438834,
+            "Request_Count": 200,
+            "Error_Count": 0,
+            "Success_Count": 200
+        },
+        "2.0.1": {
+            "Uptime": 9275438834,
+            "Request_Count": 200,
+            "Error_Count": 0,
+            "Success_Count": 200
+        },
+        "2.1.0-rc2": {
+            "Uptime": 9275438834,
+            "Request_Count": 200,
+            "Error_Count": 2,
+            "Success_Count": 198
+        }
+    },
+    "MyApp": {
+        "10.0.1": {
+            "Uptime": 9275438834,
+            "Request_Count": 200,
+            "Error_Count": 2,
+            "Success_Count": 198
+        }
+    }
+}

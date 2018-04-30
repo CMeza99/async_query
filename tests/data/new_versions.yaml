@@ -1,0 +1,22 @@
+---
+- server-110:
+    "Application": "CoreApp"
+    "Version": "1.0.0"
+    "Uptime": 4637719417
+    "Request_Count": 100
+    "Error_Count": 10
+    "Success_Count": 90
+- server-210:
+    "Application": "SillyApp"
+    "Version": "2.0.1"
+    "Uptime": 4637719417
+    "Request_Count": 100
+    "Error_Count": 0
+    "Success_Count": 100
+- server-211:
+    "Application": "SillyApp"
+    "Version": "2.1.0-rc2"
+    "Uptime": 4637719417
+    "Request_Count": 100
+    "Error_Count": 1
+    "Success_Count": 99

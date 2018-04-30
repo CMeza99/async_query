@@ -1,0 +1,22 @@
+---
+- server-100:
+    "Application": "CoreApp"
+    "Version": "1.0.0-beta"
+    "Uptime": 4637719417
+    "Request_Count": 100
+    "Error_Count": 10
+    "Success_Count": 90
+- server-200:
+    "Application": "SillyApp"
+    "Version": "2.0.0"
+    "Uptime": 4637719417
+    "Request_Count": 100
+    "Error_Count": 0
+    "Success_Count": 100
+- server-201:
+    "Application": "MyApp"
+    "Version": "10.0.1"
+    "Uptime": 4637719417
+    "Request_Count": 100
+    "Error_Count": 1
+    "Success_Count": 99

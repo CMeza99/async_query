@@ -1,0 +1,26 @@
+{
+    "CoreApp": {
+        "1.0.0-beta": {
+            "Uptime": 4637719417,
+            "Request_Count": 100,
+            "Error_Count": 10,
+            "Success_Count": 90
+        }
+    },
+    "SillyApp": {
+        "2.0.0": {
+            "Uptime": 4637719417,
+            "Request_Count": 100,
+            "Error_Count": 0,
+            "Success_Count": 100
+        }
+    },
+    "MyApp": {
+        "10.0.1": {
+            "Uptime": 4637719417,
+            "Request_Count": 100,
+            "Error_Count": 1,
+            "Success_Count": 99
+        }
+    }
+}
